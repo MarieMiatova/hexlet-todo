@@ -28,24 +28,6 @@
 
 Данные проходят однонаправленно: UI -> API-метод -> route handler -> БД -> ответ -> обновление UI.
 
-## Технологии
-
-- Next.js 16 (App Router)
-- React 19
-- HeroUI
-- Tailwind CSS 4
-- MongoDB + Mongoose
-- JWT (`jsonwebtoken`)
-- Хэширование паролей (`bcrypt`)
-
-## Переменные окружения
-
-Создайте файл `.env` в корне проекта и добавьте:
-
-```env
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-```
 
 ## Быстрый старт
 
