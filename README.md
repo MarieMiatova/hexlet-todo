@@ -75,3 +75,7 @@ yarn build  # production-сборка
 yarn start  # запуск production-сборки
 yarn lint   # проверка линтером
 ```
+
+## Деплой
+
+Деплой доступен по ссылке <a href="https://hexlet-todo-alpha.vercel.app/">https://hexlet-todo-alpha.vercel.app/</a>
