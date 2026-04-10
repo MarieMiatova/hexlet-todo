@@ -1,5 +1,7 @@
 # Hexlet Todo
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53efc66ec5b249fc906a21490bb46a81)](https://app.codacy.com/gh/MarieMiatova/hexlet-todo?utm_source=github.com&utm_medium=referral&utm_content=MarieMiatova/hexlet-todo&utm_campaign=Badge_Grade)
+
 Простое fullstack-приложение на Next.js для авторизации пользователя и управления личными задачами.
 
 ## Что реализовано
