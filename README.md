@@ -3,6 +3,8 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6e1f48151587430b907015f9b202d764)](https://app.codacy.com/gh/MarieMiatova/hexlet-todo/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
+[![Maintainability](https://qlty.sh/gh/MarieMiatova/projects/hexlet-todo/maintainability.svg)](https://qlty.sh/gh/MarieMiatova/projects/hexlet-todo)
+
 
 Простое fullstack-приложение на Next.js для авторизации пользователя и управления личными задачами.
 
